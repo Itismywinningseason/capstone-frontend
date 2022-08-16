@@ -1,0 +1,67 @@
+/* https://coolors.co/26547c-ef476f-ffd166-06d6a0-5c164e */
+
+body{
+    body{
+        background-position:center;
+        background-image:url("playneighbor.png") no-repeat;
+    }
+}
+
+html{
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: burlywood;
+    color: darkcyan;
+}
+
+h1{
+    text-align: center;
+    background-color: blanchedalmond;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+/* home.html */
+
+.container{
+     margin: 20px;
+     padding: 20px;
+}
+
+.subforum{
+    margin-top: 20px;
+}
+
+.subforum-title{
+    background-color: #5c164e;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 4px;
+}
+
+img{
+border: 1px solid #ddd;
+border-radius: 50%;
+padding: 5px;
+width: 50px;
+}
+
+
+
+/*.subforum-row{
+    display: grid;
+    grid-template-columns: 7% 60% 13% 20%;
+}*/
+
+/*.subforum-column{
+padding: 10 px;
+margin: 4px;
+border-radius:  5px;
+background-color: #ef476f;
+}*/
+
+.center {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
