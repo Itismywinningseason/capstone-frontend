@@ -1,0 +1,115 @@
+body {
+  background-image: url("neighbor.jpeg");
+    background-color: blanchedalmond; 
+    
+    image-rendering: optimizeQuality;
+  }
+.h1{
+    font-family:font-family: 'Gochi Hand', cursive;
+    color: #363537;
+    flex: center;
+  }
+  #homeIcon{
+    color: lightseagreen;
+    size: 20px;
+    font-weight: bolder;
+  }
+
+  #forumIcon{
+    color:lightcoral;
+    size: 20px;
+    font-weight: bolder;
+  }
+ 
+  #list {
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: -1.875em;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 1.875em;
+    -webkit-column-fill: auto;
+    -moz-column-count: 3;
+    -moz-column-gap: 1.875em;
+    -moz-column-fill: auto;
+    column-count: 3;
+    column-gap: 1.875em;
+    column-fill: auto;
+}
+
+.item1 {
+    background-color: #169fe6;
+    margin-bottom: 1.875em;
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    column-break-inside: avoid;
+}
+
+.item2 {
+  background-color:pink;
+  margin-bottom: 1.875em;
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+}
+
+.item3 {
+  background-color: peru;
+  margin-bottom: 1.875em;
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+}
+
+.item4 {
+  background-color: paleturquoise;
+  margin-bottom: 1.875em;
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+}
+
+.item5 {
+  background-color: palevioletred;
+  margin-bottom: 1.875em;
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+}
+
+.item6 {
+  background-color: plum;
+  margin-bottom: 1.875em;
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+}
+
+.item7 {
+  background-color: palegreen;
+  margin-bottom: 1.875em;
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+}
+
+.item8 {
+  background-color: peru;
+  margin-bottom: 1.875em;
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+}
+
+.item9 {
+  background-color: plum;
+  margin-bottom: 1.875em;
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+}
+
+#ratingHeader{
+  font-weight: bolder;
+  color: #169fe6;
+  flex: center ;
+}
